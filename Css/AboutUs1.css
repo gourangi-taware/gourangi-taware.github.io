@@ -1,0 +1,68 @@
+.img1 div {
+background-color:white;
+display:inline-block;
+float:left;
+
+}
+
+.carousel .item {
+  height:350px;
+width:100%;
+padding-left:10%;
+}
+
+.abt div{
+display:block;
+width:50%;
+clear:right;
+padding:2% 4% 4% 4%;
+height:450px;
+font-size:15.3px;
+font-weight: bolder;
+text-align:justified;
+}
+
+footer{
+clear:both;
+}
+
+.mission div{
+width:60%;
+height:50%;
+font-size:15.3px;
+
+padding:0% 1% 3% 7%;
+display:block;
+clear:left;
+font-weight: bolder;
+text-align:justified;
+float:left;
+}
+
+.missionimg img{
+width:85%;
+height:30%;
+padding:2% 2% 2% 2%;
+clear:right;
+display:block;
+
+}
+
+.whyus{
+width:45%;
+clear:left;
+float:left;
+padding:1% 1% 1% 12%;
+font-weight: bolder;
+}
+.ourpeople{
+width:45%;
+clear:right;
+float:left;
+font-weight: bolder;
+padding:1% 1% 1% 6%;
+}
+
+.abt ul{
+font-size:8px;
+}
