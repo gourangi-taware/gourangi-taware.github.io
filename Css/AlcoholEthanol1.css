@@ -1,0 +1,94 @@
+.img1 div {
+background-color:white;
+display:inline-block;
+float:left;
+
+}
+
+.carousel .item {
+  height:400px;
+width:100%;
+padding-left:8%;
+}
+
+.abt div{
+display:block;
+width:45%;
+clear:right;
+background-color:white;
+padding:2% 4% 4% 1%;
+height:550px;
+font-size:15.3px;
+font-weight: bolder;
+text-align:justified;
+}
+@media screen and (max-width: 600px) {
+.abt div{
+display:block;
+width:100%;
+clear:both;
+background-color:white;
+padding:2% 4% 4% 5%;
+height:550px;
+font-size:15.3px;
+font-weight: bolder;
+text-align:justified;
+}
+}
+
+
+footer{
+clear:both;
+}
+
+.whyus{
+width:45%;
+font-size:15.3px;
+clear:left;
+float:left;
+padding:1% 1% 1% 12%;
+text-align:justified;
+font-weight: bolder;
+}
+
+@media screen and (max-width: 600px) {
+.whyus{
+width:100%;
+
+clear:left;
+float:left;
+padding:1% 1% 1% 12%;
+
+}
+}
+
+.ourpeople{
+width:45%;
+font-size:15.3px;
+clear:right;
+float:left;
+font-weight: bolder;
+text-align:justified;
+padding:1% 1% 1% 6%;
+}
+
+@media screen and (max-width: 600px) {
+.ourpeople{
+width:100%;
+
+clear:right;
+float:left;
+
+padding:1% 1% 1% 6%;
+}
+}
+
+.abt ul{
+font-size:8px;
+}
+.whyus i, .ourpeople i {
+    font-size: 7px;
+    color: black;
+    padding-top:1.5%;
+    margin-right: 10px;
+}

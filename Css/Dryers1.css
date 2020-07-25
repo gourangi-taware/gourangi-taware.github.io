@@ -1,0 +1,108 @@
+.img1 div {
+
+display:inline-block;
+float:left;
+
+}
+
+.missionimg img{
+width:95%;
+height:450px;
+padding:2% 2% 2% 2%;
+display:inline-block;
+
+}
+.carousel .item {
+  height:400px;
+width:100%;
+padding-left:8%;
+}
+
+.abt div{
+display:block;
+width:40%;
+clear:right;
+background-color:white;
+padding:2% 4% 4% 0%;
+height:530px;
+font-size:15.3px;
+font-weight: bolder;
+text-align:justified;
+}
+@media screen and (max-width: 600px) {
+.abt div{
+display:block;
+width:100%;
+clear:both;
+padding:2% 4% 4% 5%;
+}
+}
+footer{
+clear:both;
+}
+
+.whyus div{
+width:70%;
+font-size:8px;
+clear:left;
+float:left;
+padding:0% 5% 1% 7%;
+text-align:justified;
+font-weight: bolder;
+}
+@media screen and (max-width: 600px) {
+.whyus div{
+width:100%;
+font-size:8px;
+clear:both;
+float:left;
+padding:0% 5% 1% 7%;
+
+}
+}
+.whyus3 div{
+width:100%;
+font-size:8px;
+clear:left;
+float:left;
+padding:0% 5% 1% 7%;
+text-align:justified;
+font-weight: bolder;
+
+}
+
+.abt ul{
+font-size:8px;
+}
+.abt ol{
+font-size:8px;
+}
+.eva2{
+float:right;width:30%;height:3px;padding:3% 0% 4% 0%;
+}
+.eva3{
+float:right;width:30%;height:8px;padding:3% 0% 4% 0%;
+}
+.eva2 img{
+width:82%;padding:3% 10% 0% 0%;
+}
+
+@media screen and (max-width: 600px) {
+.eva2{
+float:right;width:100%;height:500px;padding:3% 0% 4% 10%;
+display:block;clear:both;background-color:white;
+}
+.eva2 img{
+width:100%;height:230px;padding-bottom:2%;clear:both;
+}
+}
+
+@media screen and (max-width: 600px) {
+.eva3{
+float:right;width:100%;height:510px;padding:0% 0% 4% 10%;
+display:block;clear:both;background-color:white;
+}
+.eva3 img{
+width:100%;height:160px;padding-bottom:2%;clear:both;
+}
+}
