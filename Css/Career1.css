@@ -1,0 +1,39 @@
+
+
+.carousel .item {
+  height:400px;
+width:100%;
+padding-left:8%;
+}
+
+.abt div{
+display:block;
+width:45%;
+clear:right;
+background-color:white;
+padding:10% 4% 4% 1%;
+height:900px;
+font-size:15.3px;
+font-weight: bolder;
+text-align:justified;
+}
+
+footer{
+clear:both;
+}
+
+@media screen and (max-width: 600px) {
+.abt div{
+display:block;
+width:100%;
+clear:both;
+background-color:white;
+padding:0% 4% 4% 1%;
+height:900px;
+font-size:15.3px;
+font-weight: bolder;
+text-align:justified;
+}
+}
+
+
